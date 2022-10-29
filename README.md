@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Bodia Buzynovskyi :-)
+
+🌱 I am interested in data analysis, mainly through Python and SQL.
+
+⚡ I have just completed the Practicum 100 bootcamp training, and am working on further deepening my knowledge in the data field.
+
+👯 I’m looking to collaborate on cool projects involving data analysis.
+
+📫 You can reach me via: https://www.linkedin.com/in/bodia-buzynovskyi/
 
 <!--
 **buzynovskyi/buzynovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
