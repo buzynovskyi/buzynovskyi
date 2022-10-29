@@ -2,7 +2,7 @@
 
 🌱 I am interested in data analysis, mainly through Python and SQL.
 
-⚡ I have just completed the Practicum 100 bootcamp training, and am working on further deepening my knowledge in the data field.
+⚡ I have just completed the Practicum 100 data analyse course and am working on further deepening my knowledge in the data field.
 
 👯 I’m looking to collaborate on cool projects involving data analysis.
 
